@@ -1,0 +1,22 @@
+button {
+    background-color : black;
+    border: 3px solid black;
+    color: #c72123;
+    position: absolute;
+    top:  75%;
+    left: 45%;
+}
+button:focus {
+    outline-style: none
+}
+
+img {
+    position: absolute ;
+    left: 38%;
+    height: 62%;
+    width: 22.5%;
+}
+.siize {
+    position: relative;
+    left: 38.5%;
+}
